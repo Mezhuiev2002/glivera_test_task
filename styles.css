@@ -405,6 +405,10 @@ ul {
     background-color:#FFFFFF;
     border-radius: 5px;
 }
+.subscr__card_highlighted {
+
+}
+.subscr__card_mobile
 
 .subscr__duration {
     font-size: 14px;
@@ -614,6 +618,7 @@ footer {
 .footer__subtitle_right {
     line-height: 21px;
 }
+
 
 .footer__copyright {
     font-size: 12px;
