@@ -303,7 +303,7 @@
         flex: 1;
     }
     input {
-        width: 338px;
+        width: 330px;
         height: 50px;
     }
     .top-header__logo img {
@@ -429,7 +429,7 @@
   }
   .blog__right {
     width: 100% !important;
-}
+  }
   .footer__title_mod {
       display: none;
   }
@@ -444,5 +444,12 @@
   }
   .post__info {
     margin-top: 20px;
-}
+    }
+  .subscr__card_highlighted {
+    border: orange;
+  }
+  .subscr__card {
+      width: 340px;
+  }
+
 }

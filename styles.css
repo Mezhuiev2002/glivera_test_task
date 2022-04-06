@@ -406,9 +406,8 @@ ul {
     border-radius: 5px;
 }
 .subscr__card_highlighted {
-
+    border: 5px solid #4CB649;
 }
-.subscr__card_mobile
 
 .subscr__duration {
     font-size: 14px;
